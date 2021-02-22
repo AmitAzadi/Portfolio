@@ -214,7 +214,7 @@ a:hover{
 
   h1{
     color: #66BFBF;
-    font-size: 3.5rem;
+    font-size: 7rem;
     margin: 50px auto 20px auto;
     font-family: 'Sacramento', cursive;
     font-weight: bold;
@@ -235,17 +235,17 @@ a:hover{
   }
 
   .top-cloud{
-    width:120px;
+    width:180px;
     position: absolute;
     right: 10px;
     top: 50px;
   }
 
   .bottom-cloud{
-    width:120px;
+    width:180px;
     position: absolute;
     left: 10px;
-    bottom: 270px;
+    bottom: 400px;
   }
 
 
@@ -266,7 +266,7 @@ a:hover{
   }
 
   .comp-img{
-    width: 35%;
+    width: 22%;
     border-radius: 100%;
     float-left;
     text-align: left;
@@ -275,7 +275,7 @@ a:hover{
 
   .chilli-img{
     text-align: center;
-    width: 35%;
+    width: 22%;
     float-right;
     margin-left: 30px;
     border-radius: 100%;
@@ -288,7 +288,7 @@ a:hover{
   }
 
   .bio{
-    width:90%;
+    width:60%;
     line-height: 2;
     margin: auto;
     margin-bottom: 20px;
@@ -303,12 +303,12 @@ a:hover{
   }
 
   .message{
-    width:90%;
+    width:70%;
     margin:40px auto 60px auto;
     line-height: 2;
   }
     .topbio{
-      font-size: 1.3rem;
+      font-size: 2rem;
       font-family: 'Merriweather Sans', sans-serif;
       padding-bottom: 130px;
     }
